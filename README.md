@@ -8,6 +8,9 @@ Trace/breakpoint trap (core dumped)
 
 sudo apt-get install --reinstall nautilus
 
+/path/to/app --disable-gpu
+
+
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1R3NGSzhQT2o3TXdEZ3RzWEtYdzVv@35.183.8.179:1026/?outline=1
 

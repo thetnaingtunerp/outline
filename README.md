@@ -13,3 +13,6 @@ chown: cannot access 'chmod': No such file or directory
 chown: cannot access '4755': No such file or directory
 chown: cannot access '/tmp/.mount_OutlinQhvb0N/chrome-sandbox': No such file or directory
 bluestar@kot
+
+
+OUTLINE_DEBUG=true ./Outline-Client.AppImage

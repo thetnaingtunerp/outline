@@ -6,4 +6,7 @@ Trace/breakpoint trap (core dumped)
 
 --no-sandbox
 
+sudo apt-get install --reinstall nautilus
+
+
 

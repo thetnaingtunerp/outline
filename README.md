@@ -4,15 +4,6 @@
 Trace/breakpoint trap (core dumped)
 
 
-sudo chown root:root /tmp/.mount_OutlinQhvb0N/chrome-sandbox
-sudo chmod 4755 /tmp/.mount_OutlinQhvb0N/chrome-sandbox
-
-chown: cannot access '/tmp/.mount_OutlinQhvb0N/chrome-sandbox': No such file or directory
-chown: cannot access 'sudo': No such file or directory
-chown: cannot access 'chmod': No such file or directory
-chown: cannot access '4755': No such file or directory
-chown: cannot access '/tmp/.mount_OutlinQhvb0N/chrome-sandbox': No such file or directory
-bluestar@kot
+--no-sandbox
 
 
-OUTLINE_DEBUG=true ./Outline-Client.AppImage

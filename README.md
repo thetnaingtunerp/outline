@@ -14,5 +14,17 @@ sudo apt-get install --reinstall nautilus
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1R3NGSzhQT2o3TXdEZ3RzWEtYdzVv@35.183.8.179:1026/?outline=1
 
+node install 
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
 
 
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+
+source ~/.bashrc
+command -v nvm
+
+
+nvm install 18
+nvm use 18
+nvm alias default 18
